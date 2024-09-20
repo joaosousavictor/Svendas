@@ -70,12 +70,11 @@ Importe o projeto na sua IDE (por exemplo, Eclipse).
 Compile e execute a classe Main para testar o funcionamento.
 Observações
 Este projeto é um exemplo simples para praticar os conceitos de programação orientada a objetos. Para mais informações ou sugestões, entre em contato.
-</h2>
 
 
 
 
-<h2>Contribuidores
+Contribuidores
 João Silva - Desenvolvimento inicial
 Licença
 Este projeto está licenciado sob a MIT License.</h2>
