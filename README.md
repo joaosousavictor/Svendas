@@ -1,4 +1,4 @@
-<img src="foto2.PNG" alt="Imagem">
+<img src="Foto2.PNG" alt="Imagem">
 <h1># Cadastro de Produtos e Clientes
 
 Este projeto é um sistema simples de cadastro de produtos e clientes, focando em produtos eletrônicos. O projeto demonstra conceitos de **herança**, **polimorfismo** e **abstração** em Java.
